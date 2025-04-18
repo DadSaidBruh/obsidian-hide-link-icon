@@ -1,9 +1,0 @@
-{
-  "id": "hide-link-icon",
-  "name": "Hide Link Icon",
-  "version": "1.0.0",
-  "description": "Small half-finished plugin that removes external link icons",
-  "author": "DadSaidBruh",
-  "isDesktopOnly": false
-}
-
